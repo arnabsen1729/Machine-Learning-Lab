@@ -32,6 +32,6 @@ To split we use the `train_test_split()` method of the `sklearn` library.
 
 [Read More](https://realpython.com/linear-regression-in-python/)
 
-Regression is the search for relationship between various variables.
-
-
+- Regression is the search for relationship between various variables.
+- Linear regression when there is a linear relationship between variables.
+- 
