@@ -252,4 +252,7 @@ When the predictors take up a continuous value and are not discrete, we assume t
 
 ## TODO
 
-- K-fold
+- Decision Tree 
+- Different Classifier
+- Error formulas
+- 
